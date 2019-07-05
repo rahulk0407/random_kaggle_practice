@@ -1,0 +1,5 @@
+https://www.kaggle.com/moltean/fruits
+
+https://www.kaggle.com/datamunge/sign-language-mnist
+
+https://www.kaggle.com/ronitf/heart-disease-uci

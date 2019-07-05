@@ -1,0 +1,8 @@
+in prompt
+first go to the folder containing *web.py file,using - 
+cd c....(path)
+then 
+set FLASK_APP=fruit_web.py
+flask run
+
+copy paste the link shown on prompt in the browser
